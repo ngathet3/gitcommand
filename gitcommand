@@ -1,1 +1,18 @@
 git init (starting)
+git status (show diff before stage)
+git add (add to stage)
+git commit (commit confirm)
+git log (show log of many commit)
+git diff (show diff between commit id and commit )
+git branch (show branch)
+git branch -d (delete branch)
+git checkout (slect the commit or branch)
+git remote (cheking github repository)
+git remote add origin https://github.com/ngathet3/gitcommand.git (go to github link is github repo link)
+git remote -v (verbose of pull push link)
+git push origin master (push local repo to github repo)
+git pull origin master (pull from github repo to local repo)
+
+
+fork is cloning of other repo in Gihub
+clone is clonning of other repo to Local Computer
